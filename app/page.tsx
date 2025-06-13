@@ -262,13 +262,13 @@ function MainContent() {
 
       {/* Heading */}
       <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight bg-gradient-to-r from-indigo-300 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-        I'm so proud of you, brother!
+        I&apos;m so proud of you, brother!
       </h1>
 
       {/* Pesan */}
       <p className="max-w-xl text-lg md:text-xl leading-relaxed text-gray-300">
         I just want to say thank you for being my brother, please never be a stranger.
-        Always be the you I've always known, never change!
+        Always be the you I&apos;ve always known, never change!
       </p>
 
       {/* Pencapaian */}
